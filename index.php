@@ -8,7 +8,7 @@ require_once 'OpenAI.php';
 
 $openai = New OpenAI();
 
-// Please configure parameters of temperature, top p, frequency and presence penalty, best of, in includes/openAI.php, function configuration
+// Please configure parameters of temperature, top p, frequency and presence penalty, best of, in openAI.php, function configuration
 // This is the prompt..
 
 echo "You have an empty mind at disposal. Please state who this mind is.\n";
