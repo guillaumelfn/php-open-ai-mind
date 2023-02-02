@@ -11,7 +11,7 @@ to run it php index.php
 And then.. its just crazy
 
 Define who's mind is that
-And start asking questionm and follow up questions - I mean.. who needs real people to talk to right ?
+And start asking questions and follow up questions - I mean.. who needs real people to talk to right ?
 
 Anyways it works with php7.2, using openAI API (on the date of 02.02.2023)
 
