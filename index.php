@@ -33,6 +33,7 @@ while(1) {
 // Let's get the answer from openAI within the response.
   $answer =(json_decode($response)->choices[0]->text);
 
+ // How to have some memory in PHP ? oh yeah just append stuff.
   $prompt .=  $answer;
 
 // Let's print both prompt and answer.
